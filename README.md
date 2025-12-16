@@ -1,5 +1,6 @@
 # testrepo
-A repository just to test and explore github
+A repository just to test and explore github.
+Created for the course "Getting Started with Git and GitHub" by IBM on Coursera
 
 ---
 # TEXT(s) IN README.md FILES (*.md)
