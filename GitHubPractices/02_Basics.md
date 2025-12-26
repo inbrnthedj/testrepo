@@ -85,3 +85,9 @@ When *Releasing project*...
  
 - **git config -global user.email <'YourGitHubE-mail'>**: sets global e-mail config for Git that has to be executed before doing a commit to authenticate the user's email ID. (without ' ')
 - **git config -global user.name <'YourGitHubUsername'>**: sets global username config fot Git. execute before commit. (without ' ')
+
+##### Moving directories
+- **cd subDirectoryName**: moves to subDirectoryName folder
+- **cd ..**: moves one higher directory level
+- **cd ../..**: moves two higher directory levels
+- **cd ~**: moves to home directory
